@@ -1,0 +1,178 @@
+## Tax Slabs (Old Regime):
+-> Up to 2.5 lakhs: Exempt from Tax
+-> More than 2.5 lakhs to 3 lakhs: 5% 
+-> Over 3 lakhs to 5 lakhs: 5%
+-> Over 5 lakhs to 6 lakhs: 20%
+-> Over 6 lakhs to 9 lakhs: 20%
+-> Over 9 lakhs to 10 lakhs: 20%
+-> Over 10 lakhs to 12 lakhs: 30%
+-> Over 12 lakhs to 15 lakhs: 30%
+-> Above 15 lakhs: 30%
+
+
+## Tax Slabs (New Regime):
+-> Up to 2.5 lakhs: Exempt from Tax
+-> More than 2.5 lakhs to 3 lakhs: Exempt from Tax 
+-> Over 3 lakhs to 5 lakhs: 5%
+-> Over 5 lakhs to 6 lakhs: 5%
+-> Over 6 lakhs to 9 lakhs: 10%
+-> Over 9 lakhs to 10 lakhs: 15%
+-> Over 10 lakhs to 12 lakhs: 15%
+-> Over 12 lakhs to 15 lakhs: 20%
+-> Above 15 lakhs: 30%
+
+
+
+
+
+
+## Tax Deduction Sections (As per Old Tax regime):
+
+### These are in addition to the standard deduction of ₹50,000
+
+Section 80C
+
+Deduction on: Investments in PPF, NSC, SSY, ULIP, ELSS, 5-year tax-saving FD, Senior Citizen Savings Scheme, payment towards EPF, Life Insurance premiums, tuition fees, principal repayment of home loan, stamp duty and registration for property.
+Limit: ₹1.5L aggregate with 80CCD, 80CCC, 80C.
+Applicable: Individuals, HUFs.
+Section 80CCC
+
+Deduction on: Contributions to certain pension funds.
+Limit: ₹1.5L aggregate with 80CCD, 80C.
+Applicable: Individuals.
+Section 80CCD(1)
+
+Deduction on: Employee's contribution to NPS or APY.
+Limit: 10% of salary (employees), 20% of gross total income (self-employed), up to ₹1.5L aggregate.
+Applicable: Individuals.
+Section 80CCD(1B)
+
+Deduction on: Additional self-contribution to NPS.
+Limit: ₹50K.
+Applicable: Individuals.
+Section 80CCD(2)
+
+Deduction on: Employer's contribution to NPS.
+Limit: 14% for government employees, 10% for others.
+Applicable: Individuals.
+Section 80CCG
+
+Deduction on: Contributions to certain equity savings schemes.
+Limit: 50% of amount invested, maximum ₹25K.
+Applicable: New retail investors with income below a certain threshold.
+Section 80D
+
+Deduction on: Premiums paid for Medical Insurance for self, spouse, children, and parents.
+Limit: ₹25K for self and family, additional ₹25K for parents (<60 years), additional ₹50K for senior citizen parents.
+Applicable: Individuals, HUFs.
+Section 80DD
+
+Deduction on: Maintenance including medical treatment of a dependent with a disability.
+Limit: ₹75K for 40-80% disability, ₹1.25L for severe disability.
+Applicable: Individuals, HUFs.
+Section 80DDB
+
+Deduction on: Medical treatment expenses for specified diseases for self or dependents.
+Limit: Lower of actual expense or ₹40K for <60 years, ₹1L for >60 years.
+Applicable: Individuals, HUFs.
+Section 80E
+
+Deduction on: Interest on education loan.
+Limit: Interest paid for 8 years starting from year of starting repayment.
+Applicable: Individuals.
+Section 80EE
+
+Deduction on: Interest on home loan for first-time homeowners.
+Limit: ₹50K.
+Applicable: Individuals.
+Section 80EEA
+
+Deduction on: Interest on home loan for specified taxpayers.
+Limit: ₹1.5L.
+Applicable: Individuals.
+Section 80EEB
+
+Deduction on: Purchase of electric vehicles.
+Limit: ₹1.5L.
+Applicable: Individuals.
+Section 80G
+
+Deduction on: Donations to certain funds, charitable institutions.
+Limit: Generally 50% or 100% of donation, some with qualifying limits.
+Applicable: All taxpayers.
+Section 80GG
+
+Deduction on: Rent paid when HRA is not received.
+Limit: Least of rent minus 10% of total income, ₹5K per month, 25% of total income.
+Applicable: Individuals not receiving HRA.
+Section 80GGA
+
+Deduction on: Donations for scientific research or rural development.
+Limit: 100% of donation.
+Applicable: All taxpayers except those with business income.
+Section 80GGC
+
+Deduction on: Contributions to political parties.
+Limit: Amount contributed (cash donations not allowed).
+Applicable: All taxpayers.
+Section 80RRB
+
+Deduction on: Royalties on patents.
+Limit: ₹3L.
+Applicable: Resident individuals.
+Section 80TTA
+
+Deduction on: Interest income from savings account.
+Limit: ₹10K.
+Applicable: Individuals and HUFs except seniors.
+Section 80TTB
+
+Deduction on: Interest income for senior citizens.
+Limit: ₹50K.
+Applicable: Senior citizens.
+Section 80U
+
+Deduction on: Person with a disability.
+Limit: ₹75K for disability, ₹1.25L for severe disability.
+Applicable: Individuals with disability.
+Section 24B
+
+Deduction on: Interest on home loan.
+Limit: ₹2L.
+Applicable: Individuals.
+Section 10(13A)
+
+Deduction on: House Rent Allowance (HRA).
+Limit: Least of actual HRA received, 40%/50% of salary, excess rent over 10% salary.
+Applicable: Salaried individuals receiving HRA.
+Section 10(5)
+
+Deduction on: Leave Travel Allowance (LTA).
+Limit: Fare for domestic travel.
+Applicable: Salaried individuals receiving LTA.
+
+
+## Tax Deduction Sections (As per New Tax regime):
+
+The only applicable deduction in the new tax regime is the standard deduction: ₹50,000
+
+
+
+## Capital Gains Taxation by Asset Type:
+
+Equity:
+
+LTCG on listed shares over 1 year: 10% if gains exceed ₹1 lakh.
+STCG on listed shares held for less than a year: 15%.
+Debt:
+
+LTCG on debt mutual funds as per income tax slab.
+STCG on debt mutual funds as per income tax slab.
+Real Estate:
+
+LTCG on property held over 2 years: 20% with indexation.
+STCG on property held for less than 2 years: As per income tax slab.
+Others:
+
+LTCG on collectibles, antiques, etc., held for over 3 years: 20% with indexation.
+LTCG on cryptocurrencies/NFTs: 30% for all holding periods
